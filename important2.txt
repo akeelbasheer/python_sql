@@ -1,0 +1,26 @@
+source venv/bin/activate
+
+export FLASK_APP=hello.py
+
+flask run
+from flask import render_template
+
+
+
+#todo list
+
+boostrap4 w3 school
+
+create a file in template folder 
+
+all_users.html
+
+boostrap group list - paste code
+
+colored list
+
+bs4 cards
+bs4 buttons
+
+
+

@@ -1,0 +1,38 @@
+https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+
+https://flask.palletsprojects.com/en/1.1.x/quickstart/#a-minimal-application
+
+https://www.geeksforgeeks.org/create-and-import-modules-in-python/
+
+https://www.tutorialsteacher.com/python/python-package
+
+https://realpython.com/primer-on-jinja-templating/
+
+https://stackoverflow.com/questions/15321431/how-to-pass-a-list-from-python-by-jinja2-to-javascript
+
+
+#Todo list
+1. learn basic terminal commands
+2. watch basic python programming for beginers
+        https://www.youtube.com/watch?v=rfscVS0vtbw
+        https://www.youtube.com/watch?v=_uQrJ0TkZlc
+3. python3 refer to sqlite 
+        https://www.sqlitetutorial.net/sqlite-python/
+4. Copy a file in python
+        https://stackoverflow.com/questions/123198/how-do-i-copy-a-file-in-python
+        
+        from shutil import copyfile #(pwd - to get the directory)
+       des =  "/home/user/Documents/Python_projects/SQL"
+       
+        copyfile(user_image, des)
+        
+        /home/user/Downloads/david-clode-7_TTPznVIQI-unsplash.jpg
+        
+5. download images for projects unsplash.com
+
+6. boostrap slideshow
+
+7. Learn about python modules and packages
+
+       
+            
